@@ -12,9 +12,7 @@ import sys
 import glob
 from os import path
 
-TRANSLATION_MODULES = ['qradar', 'qradar:events:flows', 'dummy', 'car', 'cim', 'splunk', 'elastic', 'bigfix',
-                       'csa', 'csa:at:nf', 'aws_security_hub', 'carbonblack', 'elastic_ecs', 'proxy', 'stix_bundle', 
-                       'msatp', 'security_advisor', 'guardium', 'aws_cloud_watch_logs', 'aws_cloud_watch_logs:guardduty:vpcflow', 'azure_sentinel']
+TRANSLATION_MODULES = ['qradar', 'qradar:events:flows', 'dummy', 'car', 'cim', 'splunk', 'elastic', 'bigfix', 'csa', 'csa:at:nf', 'aws_security_hub', 'carbonblack', 'elastic_ecs', 'proxy', 'stix_bundle', 'msatp', 'security_advisor', 'guardium', 'aws_cloud_watch_logs', 'aws_cloud_watch_logs:guardduty:vpcflow', 'azure_sentinel', 'wp_ithemes']
 
 
 RESULTS = 'results'

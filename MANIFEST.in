@@ -20,3 +20,4 @@ include stix_shifter/stix_translation/src/modules/msatp/json/*.json
 include stix_shifter/stix_translation/src/modules/security_advisor/json/*.json
 include stix_shifter/stix_translation/src/modules/guardium/json/*.json
 include stix_shifter/stix_translation/src/modules/azure_sentinel/json/*.json
+include stix_shifter/stix_translation/src/modules/wp_ithemes/json/*.json
